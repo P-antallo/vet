@@ -1,0 +1,72 @@
+[
+  {
+    "nombre": "Benito",
+    "edad": "2 años",
+    "animal": "perro",
+    "color": "blanco",
+    "enfermedad": "vomitos"
+  },
+  {
+    "nombre": "Luna",
+    "edad": "3 años",
+    "animal": "gato",
+    "color": "negro",
+    "enfermedad": "fiebre"
+  },
+  {
+    "nombre": "Nube",
+    "edad": "1 año",
+    "animal": "conejo",
+    "color": "gris",
+    "enfermedad": "resfriado"
+  },
+  {
+    "nombre": "Max",
+    "edad": "4 años",
+    "animal": "perro",
+    "color": "marrón",
+    "enfermedad": "diarrea"
+  },
+  {
+    "nombre": "Misu",
+    "edad": "5 años",
+    "animal": "gato",
+    "color": "blanco",
+    "enfermedad": "pérdida"
+  },
+  {
+    "nombre": "Rayo",
+    "edad": "6 meses",
+    "animal": "hámster",
+    "color": "dorado",
+    "enfermedad": "heridas"
+  },
+  {
+    "nombre": "Rocky",
+    "edad": "7 años",
+    "animal": "perro",
+    "color": "negro",
+    "enfermedad": "tos"
+  },
+  {
+    "nombre": "Simba",
+    "edad": "2 años",
+    "animal": "gato",
+    "color": "gris",
+    "enfermedad": "vómitos"
+  },
+  {
+    "nombre": "Orejas",
+    "edad": "3 años",
+    "animal": "conejo",
+    "color": "blanco",
+    "enfermedad": "ojos"
+  },
+  {
+    "nombre": "Pelusa",
+    "edad": "1 año",
+    "animal": "hámster",
+    "color": "gris",
+    "enfermedad": "pérdida"
+  }
+]
